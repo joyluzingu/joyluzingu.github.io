@@ -7,6 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello/Nnọọ! My name is Chosen Obih, and I am a PhD student in the [Melandri Lab](https://melandri-lab.github.io/). I grew up in Southeastern Nigeria where I got my M.Sc. in Plant Sciences and Biotechnology from the University of Nigeria Nsukka, and a B.Sc. in Biotechnology from Godfrey Okoye University, Enugu. Before joining the University of Arizona’s Plant Sciences PhD program, I was an Assistant Lecturer in the Department of Biological Sciences at Godfrey Okoye University, Enugu, and a Lead Instructor at DNA Learning Center Nigeria, a science education center dedicated to supporting and facilitating molecular biology hands-on laboratory training in Nigeria and Africa. My research interest lies on understanding how plants perceive and respond to changing environments, and how we can apply these knowledge in developing improved high performing crop varieties that can withstand our changing climate. My current project focuses on using large-scale comparative omics approaches to decipher the cellular and physiological response of sorghum diversity panels to drought and heat stress. Prior to joining the Melandri Lab, I was part of the Lyons Lab, where my research focused on the development of high-throughput computational pipelines for processing RNA-Seq data for post-transcriptional modifications (PTMs).
-
+Joy Luzingu is a PhD student in Epidemiology at the Mel and Enid Zuckerman College of Public Health,
+University of Arizona. He was awarded a Fulbright scholarship by the U.S. Department of State to pursue
+a Master of Public Health in One Health at the University of Arizona. Subsequently, he completed a
+Master of Science in Epidemiology at the same institution. While pursuing his doctoral studies, Joy also
+earned a graduate certificate in Geographic Information Science (GIS). Before his graduate studies in
+public health, Joy earned a Medical Degree and worked as a physician in the Democratic Republic of
+Congo (DRC), where he was involved in clinical practice and public health research projects with the
+Kinshasa School of Public Health. His experience includes working on several epidemiological studies,
+such as assessing the availability of antimalarial drugs in communities with Population Services
+International (PSI), developing fetal growth standards with the World Health Organization (WHO),
+evaluating healthcare quality in maternal and child health settings with Handicap International, and
+conducting a clinical trial on a new pediatric antimalarial drug with Medicines for Malaria Venture
+(MMV). Joy's current research focuses on the use of mobile apps for monitoring mosquito-borne
+diseases and providing educational information. He is also an active member of the American Public
+Health Association (APHA).
 PS: I am still developing my website. More contents coming soon....
