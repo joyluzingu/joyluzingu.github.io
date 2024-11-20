@@ -83,7 +83,7 @@ redirect_from:
 
 ## Skills
 - **Statistical Analysis**: SAS (Certified), SPSS, STATA  
-- **Laboratory Skills**: Genetic engineering, microbial techniques  
+- **Laboratory Skills**: Microbial techniques  
 - **Field Skills**: Surveys, mosquito larvae collection, focus group analysis  
 - **Languages**: French (Native), English (Fluent), Lingala (Native), Kikongo (Good)
 
