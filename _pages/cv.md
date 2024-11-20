@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Curriculum Vitae
 
 ## Contact Information
 **Joy K. Luzingu, MD, MPH, MS, PhD Student**  
