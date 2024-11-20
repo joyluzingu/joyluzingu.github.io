@@ -32,3 +32,4 @@ I am an active member of the **American Public Health Association (APHA)**.
 ---
 
 *PS: This website is still under development. More content is coming soon!*
+![Bio Photo](../images/JoyLuzingu_Photo (1).jpeg)
