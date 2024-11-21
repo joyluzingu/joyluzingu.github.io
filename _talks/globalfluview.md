@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the utility of the Global Flu View (GFV) platform for Influenza-Like-Illness (ILI) surveillande and public health decision-making"
 collection: talks
-type: "Conference proceedings talk"
+type: "talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "Health Sciences Innovation Building, University of Arizona"
 date: 2024-10-02
