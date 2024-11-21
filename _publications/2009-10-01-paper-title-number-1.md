@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "The Complex Epidemiological Relationship between Flooding Events and Human Outbreaks of Mosquito-Borne Diseases: A Scoping Review"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-flooding
+excerpt: 'This scoping review examines the epidemiological relationship between flooding events and outbreaks of mosquito-borne diseases.'
+date: 2021-01-01
+venue: 'Environmental Health Perspectives'
+paperurl: 'https://doi.org/10.1289/EHP8887'
+citation: 'Coalson JC, Luzingu JK, et al. (2021). &quot;The Complex Epidemiological Relationship between Flooding Events and Human Outbreaks of Mosquito-Borne Diseases: A Scoping Review.&quot; <i>Environmental Health Perspectives</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This scoping review examines the epidemiological relationship between flooding events and outbreaks of mosquito-borne diseases.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1289/EHP8887)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Coalson JC, Luzingu JK, et al. (2021). "The Complex Epidemiological Relationship between Flooding Events and Human Outbreaks of Mosquito-Borne Diseases: A Scoping Review." <i>Environmental Health Perspectives</i>.
